@@ -1,0 +1,54 @@
+{
+  "topic": "Agentic Framework",
+  "summary": "The Agentic Framework refers to a theoretical perspective that emphasizes the role of individuals as active agents in their own learning and development. It posits that learners are not passive recipients of information but rather engage in self-directed learning, making choices and taking responsibility for their educational experiences. This framework is often applied in educational settings to promote autonomy, motivation, and personal agency among students, encouraging them to set goals, reflect on their learning processes, and develop critical thinking skills.",
+  "sources": [],
+  "tools_used": [
+    "wiki_tool",
+    "search_tool"
+  ]
+}
+
+================================================================================
+
+{
+  "topic": "Capital of India",
+  "summary": "The capital of India is New Delhi.",
+  "sources": [
+    "Wikipedia",
+    "Official Government Websites"
+  ],
+  "tools_used": [
+    "wiki_tool",
+    "search_tool"
+  ]
+}
+
+================================================================================
+
+{
+  "topic": "Current Time in India",
+  "summary": "India operates on Indian Standard Time (IST), which is UTC+5:30. There is no daylight saving time observed in India. Therefore, the current time can be calculated by adding 5 hours and 30 minutes to Coordinated Universal Time (UTC).",
+  "sources": [
+    "https://www.timeanddate.com/worldclock/india",
+    "https://en.wikipedia.org/wiki/Time_in_India"
+  ],
+  "tools_used": [
+    "search_tool",
+    "wiki_tool"
+  ]
+}
+
+================================================================================
+
+{
+  "topic": "Atom",
+  "summary": "An atom is the smallest unit of matter that retains the properties of an element. It consists of a nucleus made up of protons and neutrons, surrounded by electrons that orbit the nucleus. Atoms are the building blocks of all substances and participate in chemical reactions to form molecules.",
+  "sources": [],
+  "tools_used": [
+    "wiki_tool",
+    "search_tool"
+  ]
+}
+
+================================================================================
+
